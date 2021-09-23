@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "294E31F9-4375-4007-BA5E-E0F57E96250D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B02A7901-6086-4E44-B225-9E03C34905C0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UI_app/Repository/Singleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "MySession"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E1F5679-9DD7-4579-AF6C-12F1850A9A84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UI_app/Repository/Singleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "MySession"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7E1F5679-9DD7-4579-AF6C-12F1850A9A84 - 4335509c2446c9b2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_D81545E98AC034DDF56A1F396D225738_func0"
+                  moduleName = "UI_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/plotnik/Desktop/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B0%D1%8F/UI_app/Repository/Singleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "11">
+               </Location>
+               <Location
+                  uuid = "7E1F5679-9DD7-4579-AF6C-12F1850A9A84 - a26c126aba8f7453"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UI_app.MySession.shared.unsafeMutableAddressor : UI_app.MySession"
+                  moduleName = "UI_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/plotnik/Desktop/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B0%D1%8F/UI_app/Repository/Singleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
